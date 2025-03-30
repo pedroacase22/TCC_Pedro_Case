@@ -35,7 +35,7 @@ dicionario_bruto = """
     "qualificação", "formação", "treinamento", "capacitação", "recursos humanos", "aprendizado", "capital intelectual",
     "regionalização", "interiorização", "desconcentração", "desenvolvimento local", "desigualdades", "descentralização", "inclusão", "interior", "igualdade",
     "startup", "empreendedorismo", "empreendedorismo inovador", "spin-offs", "aceleradoras", "incubadoras", "hackathons", "empresas inovadoras", "empreendimentos inovadores", "empreendimentos",
-    "setor produtivo", "indústria", "competitividade", "inovação aberta", "empresas", "mercado", "empresas de pequeno porte", "sistema produtivo local", "ambiente produtivo", "pequena empresa", "microempresas",
+    "setor produtivo", "indústria", "competitividade", "ICTI", "inovação aberta", "empresas", "mercado", "empresas de pequeno porte", "sistema produtivo local", "ambiente produtivo", "pequena empresa", "microempresas",
     "fundos", "financiamento", "crédito", "capital de risco", "fomento", "incentivo fiscal", "royalties", "capitais", "bônus tecnológico", "fundos de investimento", "participação societária", "subvenção", "incentivo",
     "ICT", "ICTs", "universidade", "instituto", "NIT", "instituições científicas", "centro de pesquisa", "ensino superior", "ensino", "extensão", "pesquisa científica", "pesquisa científica e tecnológica", "inventor independente",
     "laboratórios", "laboratoriais", "centros tecnológicos", "espaços de inovação", "infraestrutura científica", "infraestrutura", "centros", "ambientes", "espaços", "fundação", "fundações de apoio", "obras", "conselho", "ecossistema", "polos tecnológicos", "parques tecnológicos", "hubs", "redes", "ambientes de inovação", "agência de fomento", "promotores",
