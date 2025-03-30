@@ -49,7 +49,7 @@ TOPICOS = {
         "agência de fomento", "promotores"
     ],
     "ICTs e Universidades": [
-        "ict", "icts", "universidade", "instituto", "nit", "instituições científicas", "centro de pesquisa",
+        "ict", "icts", "universidade", "icti", "instituto", "nit", "instituições científicas", "centro de pesquisa",
         "ensino superior", "ensino", "extensão", "pesquisa científica", "pesquisa científica e tecnológica",
         "inventor independente"
     ],
